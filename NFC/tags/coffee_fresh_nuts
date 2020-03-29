@@ -1,0 +1,20 @@
+[ 04:61:E4:09 ] Addr. 00 : UID0 - UID2 / BCC0
+[ 6A:B5:56:80 ] Addr. 01 : UID3 - UDI6
+[ 09:48:00:00 ] Addr. 02 : BCC1 / INT. / LOCK0 - LOCK1
+[ FF:FF:FF:FF ] Addr. 03 : OTP0 - OTP3
+[ AA:96:64:4B ] Addr. 04 : DATA
+[ 05:AA:96:41 ] Addr. 05 : DATA
+[ 32:78:AA:AC ] Addr. 06 : DATA
+[ 5F:50:05:AA ] Addr. 07 : DATA
+[ B6:41:46:96 ] Addr. 08 : DATA
+[ 37:6E:5A:2D ] Addr. 09 : DATA
+[ 23:01:0F:00 ] Addr. 0A : DATA
+[ 06:01:B9:AF ] Addr. 0B : DATA
+[ 00:00:00:00 ] Addr. 0C : DATA
+[ 00:00:00:00 ] Addr. 0D : DATA
+[ 00:00:00:00 ] Addr. 0E : DATA
+[ 22:00:00:00 ] Addr. 0F : DATA
+[ 00:00:00:FF ] Addr. 10 : CFG 0 (MIRROR / AUTH0)
+[ 00:05:00:00 ] Addr. 11 : CFG 1 (ACCESS)
+[ 00:00:00:00 ] Addr. 12 : PWD0 - PWD3
+[ 00:00:00:00 ] Addr. 13 : PACK0 - PACK1
