@@ -1,0 +1,16 @@
+0  - Jumper 3
+1  - RGB touch red
+2  - RGB touch green
+3  - RGB touch blue
+4  - NTC
+5  - NTC
+6  - Jumper 20
+7  - Touch button
+8  - RGB LED Bottom blue
+9  - RGB LED Bottom red
+10 - RGB LED Bottom green
+11 - NFC IRQ?
+12 - enable RC522, goes to DVDD
+13 - SWD SWDIO
+14 - SWD SWCL
+15 - NFC NSS

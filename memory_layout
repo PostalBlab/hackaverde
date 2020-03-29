@@ -1,0 +1,26 @@
+0801 FF00 roasts since last reset
+0801 FF01 total roasts
+
+2000 0000 loop flag
+2000 0001 loop flag, detect touch and check sensors
+2000 0002 loop flag, check NFC data
+2000 0003 loop flag, giant state machine
+
+2000 000C könnte error flag sein, wird gesetzt wenn OTP auf 0xFF steht etc.
+
+2000 0059 machine state? is set in EHS6_comm if the state package is send
+
+2000 0040 brews since last reset
+2000 0044 total brews
+
+2000 0087
+2000 0088
+2000 0089
+2000 008a
+
+2000 00ae lower part temp top
+2000 00af upper part temp bottom
+
+2000 034c prescaler für timer 1virt
+2000 05a0-200005ac 
+
